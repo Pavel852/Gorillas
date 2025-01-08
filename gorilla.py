@@ -295,7 +295,7 @@ def main():
 
             # Texty
             draw_text(screen, "Nápověda / Info", SCREEN_WIDTH//2, 100, size=40)
-            draw_text(screen, "Autor: Jan Novak", SCREEN_WIDTH//2, 180, size=30)
+            draw_text(screen, "Autor: PB", SCREEN_WIDTH//2, 180, size=30)
             draw_text(screen, "Ovládání:", SCREEN_WIDTH//2, 240, size=35)
             draw_text(screen, "← / → mění rychlost hodu", SCREEN_WIDTH//2, 280, size=25)
             draw_text(screen, "↑ / ↓ mění úhel hodu", SCREEN_WIDTH//2, 310, size=25)
